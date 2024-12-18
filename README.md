@@ -1,4 +1,5 @@
-<h1>Hey, Wahid here, I'm an <a href="https://linkedin.com/in/wahida01">IT Specialist and Cybersecurity Student</a>☺</h1>
+<h1>Hey, Wahid here. 
+Below are the labs carried out for my Azure IT Helpdesk, Compute and Networking Projects</a>☺</h1>
 
 <h2> IT Helpdesk, Compute and Networking Using Microsoft Azure 🪟</h2>
 
