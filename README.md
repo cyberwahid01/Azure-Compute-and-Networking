@@ -6,7 +6,7 @@ Below are the labs carried out for my Azure IT Helpdesk, Compute and Networking 
 - <b>1. Microsoft Azure Introduction 🪟</b>
   - [Creating My First Resource in Azure (Storage, Container, File Upload/Edit, Delete Resource)](https://github.com/cyberwahid01/1-azure-resource-setup)
 - <b>2. Compute and Networking Using Microsoft Azure, Powershell and Wireshark 🪟</b>
-  - [Part 1 - Setting Up Virtual Machines](https://github.com/cyberwahid01/2.1-Virtual-Machine-Setup) | [Part 2 - Observing ICMP Traffic](https://github.com/cyberwahid01/2.2-Observing-ICMP-Traffic) | [Part 3 - Configure Firewall and Deny Traffic](https://github.com/cyberwahid01/2.3-Configure-Firewall-Deny-Traffic)
+  - [Part 1 - Setting Up Virtual Machines](https://github.com/cyberwahid01/2.1-Virtual-Machine-Setup) | [Part 2 - Observing ICMP Traffic](https://github.com/cyberwahid01/2.2-Observing-ICMP-Traffic) | [Part 3 - Configure Firewall and Deny Traffic](https://github.com/cyberwahid01/2.3-Configure-Firewall-Deny-Traffic) | [Part 4 - Observe SSH Traffic](https://github.com/cyberwahid01/2.4-Observe-SSH-Traffic)
 
 
 <h2>Connect With Me 🤳</h2>
