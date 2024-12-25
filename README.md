@@ -7,8 +7,8 @@ Below are the Labs carried out for my Azure IT Helpdesk, Compute and Networking 
   - [Creating My First Resource in Azure (Storage, Container, File Upload/Edit, Delete Resource)](https://github.com/cyberwahid01/1-azure-resource-setup)
 - <b>2. Compute and Networking Using Microsoft Azure, Powershell and Wireshark 🪟</b>
   - [Part 1 - Setting Up Virtual Machines](https://github.com/cyberwahid01/2.1-Virtual-Machine-Setup) | [Part 2 - Observing ICMP Traffic](https://github.com/cyberwahid01/2.2-Observing-ICMP-Traffic) | [Part 3 - Configure Firewall and Deny Traffic](https://github.com/cyberwahid01/2.3-Configure-Firewall-Deny-Traffic) | [Part 4 - Observe SSH Traffic](https://github.com/cyberwahid01/2.4-Observe-SSH-Traffic) | [Part 5 - Observe DHCP Traffic](https://github.com/cyberwahid01/2.5-Observe-DHCP-Traffic) | [Part 6 & 7 - Observe DNS and RDP Traffic](https://github.com/cyberwahid01/2.6-2.7-DNS-and-RDP-Traffic)
-- <b>3. Ticketing Systems: Installing oSTicket, Configuring Departments and Settings, Working Tickets 🪟</b>
-  - [Part 1 - oSTicket Install and Setup](https://github.com/cyberwahid01/3.1-oSTicket-Install-and-Setup)
+- <b>3. Ticketing Systems: Installing osTicket, Configuring Departments and Settings, Working Tickets 🪟</b>
+  - [Part 1 - osTicket Install and Setup](https://github.com/cyberwahid01/3.1-oSTicket-Install-and-Setup)
 
 <h2>Connect With Me 🤳</h2>
 
