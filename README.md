@@ -10,6 +10,7 @@ Below are the Labs Carried out for my Azure IT Helpdesk, Compute and Networking 
 - <b>3. Ticketing Systems: Installing osTicket, Configuring Departments and Settings, Working Tickets 🪟</b>
   - [Part 1 - osTicket Install and Setup](https://github.com/cyberwahid01/3.1-osTicket-Install-and-Setup) | [Part 2 - osTicket Install and Setup](https://github.com/cyberwahid01/3.2-osTicket-Post-Install-Setup) | [Part 3 - Tickets and Ticket Resolutions](https://github.com/cyberwahid01/3.3-Tickets-and-Ticket-Resolutions)
 - <b>4. Active Directory: Preparing Environments, Deploying AD, Creating Users, Enabling/Disabling Accounts and Resetting Passwords. 🪟</b>
+  - [Part 1 - Active Directory Environment Preparation](https://github.com/cyberwahid01/4.1-Active-Directory-Environment-Preparation) | [Part 2 - Deploying Active Directory](https://github.com/cyberwahid01/4.2-Deploying-Active-Directory) | [Part 3 - Creating Users With Powershell Script](https://github.com/cyberwahid01/4.3-Creating-Users-With-Powershell-Script) | [Part 4 - Configuring Accounts and Resetting Passwords](https://github.com/cyberwahid01/4.4-Configuring-Accounts-and-Resetting-Passwords)
 
 <h2>Connect With Me 🤳</h2>
 
