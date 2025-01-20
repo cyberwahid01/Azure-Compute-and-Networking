@@ -1,4 +1,4 @@
-<h1>Hey, Wahid here. 
+<h1>
 Below are the Labs Carried out for my Azure IT Helpdesk, Compute and Networking Project</a></h1>
 
 <h2> IT Helpdesk, Compute and Networking Using Microsoft Azure 🪟</h2>
