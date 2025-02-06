@@ -13,6 +13,8 @@ Below are the Labs Carried out for my Azure IT Helpdesk, Compute and Networking 
   - [Part 1 - Active Directory Environment Preparation](https://github.com/cyberwahid01/4.1-Active-Directory-Environment-Preparation) | [Part 2 - Deploying Active Directory](https://github.com/cyberwahid01/4.2-Deploying-Active-Directory) | [Part 3 - Creating Users With Powershell Script](https://github.com/cyberwahid01/4.3-Creating-Users-With-Powershell-Script) | [Part 4 - Configuring Accounts and Resetting Passwords](https://github.com/cyberwahid01/4.4-Configuring-Accounts-and-Resetting-Passwords)
 - <b>5. Active Directory: Network File Shares, Access and Read/Write Permissions 🪟</b>
   - [Part 1 - Active Directory: Network File Shares, Access and Read/Write Permissions](https://github.com/cyberwahid01/5.1-Active-Directory-Network-File-Permissions)
+- <b>6. Active Directory: Understanding DNS 🪟</b>
+  - [Part 1 - Active Directory: Understanding DNS](https://github.com/cyberwahid01/6.1-Active-Directory-Understanding-DNS)
 
 <h2>Connect With Me 🤳</h2>
 
