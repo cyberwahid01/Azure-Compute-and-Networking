@@ -20,4 +20,4 @@ Below are the Labs Carried out for my Azure IT Helpdesk, Compute and Networking 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/wahida01
+[linkedin]: https://linkedin.com/in/awahid01
